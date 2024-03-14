@@ -1,0 +1,33 @@
+/* @media screen and (max-width:576px) {
+    .nav-container,
+    .banner-container,
+    .banner-2-container
+    {
+        flex-direction: column;
+    }
+
+    .nav-container,
+    .banner-container,
+    .banner-2-container{
+        width: 500px;
+    }
+
+    .banner-container{
+
+        flex-direction: column-reverse;
+        
+    }
+
+    .nav-container{
+        margin-bottom: 150px;
+    }
+
+    .banner-2-containe{
+       
+    }
+
+    .banner-2-img{
+        padding-right: 100px;
+    }
+    
+} */

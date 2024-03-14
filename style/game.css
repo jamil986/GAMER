@@ -1,0 +1,366 @@
+/* sheard style css */
+
+* {
+    font-family: "Poppins", sans-serif;
+
+}
+
+/* header style css */
+
+header {
+    max-width: 1920px;
+}
+
+/* nav style css */
+
+.nav-container {
+    width: 1440px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 240px;
+
+
+}
+
+.nav-title {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+
+}
+
+.frame {
+    width: 90px;
+    height: 40px;
+
+
+}
+
+.game {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: rgb(11, 2, 35);
+
+
+}
+
+#scolor {
+    color: rgb(255, 66, 165);
+}
+
+.menu-container a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(60, 53, 79);
+    font-size: 1, 1rem;
+}
+
+.follow-us {
+    background: rgba(11, 2, 35, 0.1);
+    padding: 17px 24px;
+    gap: 5px;
+}
+
+/* banner section style */
+
+.banner-container {
+    display: flex;
+    gap: 65px;
+
+}
+
+.banner-content {
+
+    width: 901px;
+    height: 700px;
+    background-image: url(../images/Group\ 14.png);
+    background-repeat: no-repeat;
+}
+
+.play-like {
+    color: rgb(11, 2, 35);
+    font-size: 2.8rem;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.goat {
+    font-size: 5.1rem;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0;
+
+    background: linear-gradient(180.00deg, rgb(249, 72, 178), rgb(135, 88, 241));
+    -webkit-background-clip:
+        text;
+    -webkit-text-fill-color:
+        transparent;
+    background-clip:
+        text;
+    text-fill-color:
+        transparent;
+
+}
+
+.banner-card {
+    width: 365px;
+    height: 404px;
+    margin: 148px 250px;
+}
+
+
+.banner-content p {
+    color: rgb(83, 76, 100);
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.banner-btn {}
+
+.btn-sing-in {
+    width: 156px;
+    height: 65px;
+    border-radius: 48px;
+    background: linear-gradient(90.00deg, rgb(255, 66, 165) 13.134%, rgb(255, 66, 165) 87.942%);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 10px;
+    border: 0;
+
+
+}
+
+.btn-go {
+    border-radius: 48px;
+    background: rgb(78, 197, 247);
+    width: 185px;
+    height: 65px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+}
+
+.banner-img {}
+
+/* banner 2 style css */
+
+.banner-2-img img {
+    margin: 55px 0;
+}
+
+.banner-2-container {
+    display: flex;
+    width: 1920px;
+    height: 600px;
+    background: linear-gradient(90.00deg, rgba(255, 66, 165, 0.03) 13.134%, rgba(255, 66, 165, 0.03) 87.942%);
+    padding: 0 240px;
+    gap: 50px;
+}
+
+.we-are-gamer {
+    background: linear-gradient(180.00deg, rgb(249, 72, 178), rgb(135, 88, 241));
+    -webkit-background-clip:
+        text;
+    -webkit-text-fill-color:
+        transparent;
+    background-clip:
+        text;
+    text-fill-color:
+        transparent;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 22px;
+}
+
+.banner-2-description {
+    color: rgb(83, 76, 100);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.banner-2-content {
+    width: 520px;
+    height: 400px;
+    text-align: right;
+    margin: 95px 0;
+}
+
+.btn-know-more {
+    width: 208px;
+    height: 65px;
+    border-radius: 48px;
+    background: linear-gradient(90.00deg, rgb(255, 66, 165) 13.134%, rgb(255, 66, 165) 87.942%);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+}
+
+.purpose {
+    color: rgb(83, 76, 100);
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.unleash {
+    color: rgb(83, 76, 100);
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+/* start main section style css */
+
+/* funny-video section style */
+
+.funny-video {
+    max-width: 1440px;
+    margin: 0 240px;
+}
+
+.video-title {
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(11, 2, 35);
+    margin-bottom: 0;
+}
+
+.video-description {
+    color: rgb(83, 76, 100);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#span1 {
+    background: linear-gradient(180.00deg, rgb(249, 72, 178), rgb(135, 88, 241));
+    -webkit-background-clip:
+        text;
+    -webkit-text-fill-color:
+        transparent;
+    background-clip:
+        text;
+    text-fill-color:
+        transparent;
+}
+
+.video-title {
+    text-align: center;
+}
+
+.video-card {
+    margin-left: 3px;
+}
+
+.video-card:hover {
+    border-radius: 16px;
+    border: 5px solid rgb(255, 66, 165);
+    background: rgba(0, 0, 0, 0.6), url(mini-guardians-castle-defense);
+    background-image: url(../images/video-play-button.png);
+}
+
+.card-info {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(83, 76, 100);
+    font-size: 20px;
+    gap: 24px;
+
+}
+
+.card-info p {
+    width: 342px;
+    height: 60px;
+}
+
+/* group 59 style css */
+
+.group59-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(11, 2, 35);
+}
+
+
+#span2 {
+    background: linear-gradient(180.00deg, rgb(249, 72, 178), rgb(135, 88, 241));
+    -webkit-background-clip:
+        text;
+    -webkit-text-fill-color:
+        transparent;
+    background-clip:
+        text;
+    text-fill-color:
+        transparent;
+}
+
+.group59-text {
+    width: 350px;
+    height: 290px;
+    margin-top: 215px;
+    margin-left: 20px;
+
+}
+
+.group59-pera {
+    color: rgb(83, 76, 100);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.group59 {
+    width: 1253px;
+    height: 725px;
+    display: flex;
+    margin-left: 430px;
+    margin-right: 240px;
+}
+
+.group59-img {
+    width: 780px;
+    height: 725px;
+    margin-left: 120px;
+    margin-top: 120px;
+    margin-bottom: 150px;
+}
+
+.group59-main {
+    margin-bottom: 75px;
+    margin-left: 145px;
+}
+
+.group59-2nd {
+    margin-top: -400px;
+}
+
+/* start css group61 style */
+
+.group61 {
+    border: 1px solid black;
+    width: 1440px;
+    height: 773px;
+    margin-top: 195px;
+    display: flex;
+}
+
+.group61-text {
+    border: 1px solid red;
+    width: 483px;
+    height: 300px;
+}
+
+.group61-title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-top: 0;
+}
